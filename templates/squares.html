@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kwadraty</title>
+</head>
+<body>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh">
+    <div style="display: flex; flex-flow: row wrap; justify-content: center; gap: 15px; width: 360px">
+        {% for i in squares_list %}
+            <a href="{{ url_for('increment_counter_squares', index=loop.index0)}}">
+                <div style="width: 100px; height: 100px; display: flex; justify-content: center; align-items:center;
+             cursor: pointer; background-color: {{ i.color }}">
+                <div style="color: white"> {{ i.counter }}</div>
+            </div>
+            </a>
+
+        {% endfor %}
+    </div>
+</div>
+
+</body>
+</html>

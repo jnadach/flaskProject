@@ -1,0 +1,2225 @@
+[
+    {
+        "country": "Afghanistan",
+        "capital": "Kabul",
+        "cc": "AF",
+        "cc3": "AFG",
+        "iac": "+93",
+        "timezone": "UTC+04:30",
+        "currency": "Afghan afghani"
+    },
+    {
+        "country": "Aland Islands",
+        "capital": "Mariehamn",
+        "cc": "AX",
+        "cc3": "ALA",
+        "iac": "+358",
+        "timezone": "UTC+02:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "Albania",
+        "capital": "Tirana",
+        "cc": "AL",
+        "cc3": "ALB",
+        "iac": "+355",
+        "timezone": "UTC+01:00",
+        "currency": "Albanian lek"
+    },
+    {
+        "country": "Algeria",
+        "capital": "Algiers",
+        "cc": "DZ",
+        "cc3": "DZA",
+        "iac": "+213",
+        "timezone": "UTC",
+        "currency": "Algerian dinar"
+    },
+    {
+        "country": "American Samoa",
+        "capital": "Pago Pago",
+        "cc": "AS",
+        "cc3": "ASM",
+        "iac": "+1 684",
+        "timezone": "UTC-11:00",
+        "currency": null
+    },
+    {
+        "country": "Andorra",
+        "capital": "Andorra la Vella",
+        "cc": "AD",
+        "cc3": "AND",
+        "iac": "+376",
+        "timezone": "UTC+01:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "Angola",
+        "capital": "Luanda",
+        "cc": "AO",
+        "cc3": "AGO",
+        "iac": "+244",
+        "timezone": "UTC+01:00",
+        "currency": "Angolan kwanza"
+    },
+    {
+        "country": "Anguilla",
+        "capital": "The Valley",
+        "cc": "AI",
+        "cc3": "AIA",
+        "iac": "+1 264",
+        "timezone": "UTC-04:00",
+        "currency": "East Caribbean dollar"
+    },
+    {
+        "country": "Antarctica",
+        "capital": null,
+        "cc": "AQ",
+        "cc3": "ATA",
+        "iac": null,
+        "timezone": null,
+        "currency": null
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "capital": "St. John's",
+        "cc": "AG",
+        "cc3": "ATG",
+        "iac": "+1 268",
+        "timezone": "UTC-04:00",
+        "currency": "East Caribbean dollar"
+    },
+    {
+        "country": "Argentina",
+        "capital": "Buenos Aires",
+        "cc": "AR",
+        "cc3": "ARG",
+        "iac": "+54",
+        "timezone": "UTC-03:00",
+        "currency": "Argentine peso"
+    },
+    {
+        "country": "Armenia",
+        "capital": "Yerevan",
+        "cc": "AM",
+        "cc3": "ARM",
+        "iac": "+374",
+        "timezone": "UTC+04:00",
+        "currency": "Armenian dram"
+    },
+    {
+        "country": "Aruba",
+        "capital": "Oranjestad",
+        "cc": "AW",
+        "cc3": "ABW",
+        "iac": "+297",
+        "timezone": "UTC-04:00",
+        "currency": "Aruban florin"
+    },
+    {
+        "country": "Australia",
+        "capital": "Canberra",
+        "cc": "AU",
+        "cc3": "AUS",
+        "iac": "+61",
+        "timezone": "UTC+07:00 - UTC+10:00",
+        "currency": "Australian dollar"
+    },
+    {
+        "country": "Austria",
+        "capital": "Vienna",
+        "cc": "AT",
+        "cc3": "AUT",
+        "iac": "+43",
+        "timezone": "UTC+01:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "Azerbaijan",
+        "capital": "Baku",
+        "cc": "AZ",
+        "cc3": "AZE",
+        "iac": "+994",
+        "timezone": "UTC+04:00",
+        "currency": "Azerbaijani manat"
+    },
+    {
+        "country": "Bahamas",
+        "capital": "Nassau",
+        "cc": "BS",
+        "cc3": "BHS",
+        "iac": "+1 242",
+        "timezone": "UTC-05:00",
+        "currency": "Bahamian dollar"
+    },
+    {
+        "country": "Bahrain",
+        "capital": "Manama",
+        "cc": "BH",
+        "cc3": "BHR",
+        "iac": "+973",
+        "timezone": "UTC+03:00",
+        "currency": "Bahraini dinar"
+    },
+    {
+        "country": "Bangladesh",
+        "capital": "Dhaka",
+        "cc": "BD",
+        "cc3": "BGD",
+        "iac": "+880",
+        "timezone": "UTC+06:00",
+        "currency": "Bangladeshi taka"
+    },
+    {
+        "country": "Barbados",
+        "capital": "Bridgetown",
+        "cc": "BB",
+        "cc3": "BRB",
+        "iac": "+1 246",
+        "timezone": "UTC-04:00",
+        "currency": "Barbadian dollar"
+    },
+    {
+        "country": "Belarus",
+        "capital": "Minsk",
+        "cc": "BY",
+        "cc3": "BLR",
+        "iac": "+375",
+        "timezone": "UTC+03:00",
+        "currency": "Belarusian ruble"
+    },
+    {
+        "country": "Belgium",
+        "capital": "Brussels",
+        "cc": "BE",
+        "cc3": "BEL",
+        "iac": "+32",
+        "timezone": "UTC+01:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "Belize",
+        "capital": "Belmopan",
+        "cc": "BZ",
+        "cc3": "BLZ",
+        "iac": "+501",
+        "timezone": "UTC-06:00",
+        "currency": "Belize dollar"
+    },
+    {
+        "country": "Benin",
+        "capital": "Porto-Novo",
+        "cc": "BJ",
+        "cc3": "BEN",
+        "iac": "+229",
+        "timezone": "UTC+01:00",
+        "currency": "West African CFA franc"
+    },
+    {
+        "country": "Bermuda",
+        "capital": "Hamilton",
+        "cc": "BM",
+        "cc3": "BMU",
+        "iac": "+1 441",
+        "timezone": "UTC-04:00",
+        "currency": "Bermudian dollar"
+    },
+    {
+        "country": "Bhutan",
+        "capital": "Thimphu",
+        "cc": "BT",
+        "cc3": "BTN",
+        "iac": "+975",
+        "timezone": "UTC+05:30",
+        "currency": "Bhutanese ngultrum"
+    },
+    {
+        "country": "Bolivia",
+        "capital": "Sucre",
+        "cc": "BO",
+        "cc3": "BOL",
+        "iac": "+591",
+        "timezone": "UTC-04:00",
+        "currency": "Bolivian boliviano"
+    },
+    {
+        "country": "Bonaire",
+        "capital": "Kralendijk",
+        "cc": "BQ",
+        "cc3": "BES",
+        "iac": "+599",
+        "timezone": "UTC-04:00",
+        "currency": "United States dollar"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "capital": "Sarajevo",
+        "cc": "BA",
+        "cc3": "BIH",
+        "iac": "+387",
+        "timezone": "UTC+01:00",
+        "currency": "Bosnia and Herzegovina convertible mark"
+    },
+    {
+        "country": "Botswana",
+        "capital": "Gaborone",
+        "cc": "BW",
+        "cc3": "BWA",
+        "iac": "+267",
+        "timezone": "UTC+02:00",
+        "currency": "Botswana pula"
+    },
+    {
+        "country": "Bouvet Island",
+        "capital": null,
+        "cc": "BV",
+        "cc3": "BVT",
+        "iac": null,
+        "timezone": "UTC+01:00",
+        "currency": null
+    },
+    {
+        "country": "Brazil",
+        "capital": "Bras\u00edlia",
+        "cc": "BR",
+        "cc3": "BRA",
+        "iac": "+55",
+        "timezone": "UTC-05:00 - UTC-03:00",
+        "currency": "Brazilian real"
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "capital": "Diego Garcia",
+        "cc": "IO",
+        "cc3": "IOT",
+        "iac": "+246",
+        "timezone": "UTC+06",
+        "currency": "United States dollar"
+    },
+    {
+        "country": "Brunei",
+        "capital": "Bandar Seri Begawan",
+        "cc": "BN",
+        "cc3": "BRN",
+        "iac": "+673",
+        "timezone": "UTC+08:00",
+        "currency": "Brunei dollar"
+    },
+    {
+        "country": "Bulgaria",
+        "capital": "Sofia",
+        "cc": "BG",
+        "cc3": "BGR",
+        "iac": "+359",
+        "timezone": "UTC+02:00",
+        "currency": "Bulgarian lev"
+    },
+    {
+        "country": "Burkina Faso",
+        "capital": "Ouagadougou",
+        "cc": "BF",
+        "cc3": "BFA",
+        "iac": "+226",
+        "timezone": "UTC",
+        "currency": "West African CFA franc"
+    },
+    {
+        "country": "Burundi",
+        "capital": "Bujumbura",
+        "cc": "BI",
+        "cc3": "BDI",
+        "iac": "+257",
+        "timezone": "UTC+02:00",
+        "currency": "Burundian franc"
+    },
+    {
+        "country": "Cambodia",
+        "capital": "Phnom Penh",
+        "cc": "KH",
+        "cc3": "KHM",
+        "iac": "+855",
+        "timezone": "UTC+07:00",
+        "currency": "Cambodian riel"
+    },
+    {
+        "country": "Cameroon",
+        "capital": "Yaound\u00e9",
+        "cc": "CM",
+        "cc3": "CMR",
+        "iac": "+237",
+        "timezone": "UTC+01:00",
+        "currency": "Central African CFA franc"
+    },
+    {
+        "country": "Canada",
+        "capital": "Ottawa",
+        "cc": "CA",
+        "cc3": "CAN",
+        "iac": "+1",
+        "timezone": "UTC-08:00 - UTC-04:00",
+        "currency": "Canadian dollar"
+    },
+    {
+        "country": "Cape Verde",
+        "capital": "Praia",
+        "cc": "CV",
+        "cc3": "CPV",
+        "iac": "+238",
+        "timezone": "UTC-01:00",
+        "currency": "Cape Verdean escudo"
+    },
+    {
+        "country": "Cayman Islands",
+        "capital": "George Town",
+        "cc": "KY",
+        "cc3": "CYM",
+        "iac": "+1 345",
+        "timezone": "UTC-05:00",
+        "currency": "Cayman Islands dollar"
+    },
+    {
+        "country": "Central African Republic",
+        "capital": "Bangui",
+        "cc": "CF",
+        "cc3": "CAF",
+        "iac": "+236",
+        "timezone": "UTC+01:00",
+        "currency": "Central African CFA franc"
+    },
+    {
+        "country": "Chad",
+        "capital": "N'Djamena",
+        "cc": "TD",
+        "cc3": "TCD",
+        "iac": "+235",
+        "timezone": "UTC+01:00",
+        "currency": "Central African CFA franc"
+    },
+    {
+        "country": "Chile",
+        "capital": "Santiago",
+        "cc": "CL",
+        "cc3": "CHL",
+        "iac": "+56",
+        "timezone": "UTC-04:00",
+        "currency": "Chilean peso"
+    },
+    {
+        "country": "China",
+        "capital": "Beijing",
+        "cc": "CN",
+        "cc3": "CHN",
+        "iac": "+86",
+        "timezone": "UTC+08:00",
+        "currency": "Chinese yuan"
+    },
+    {
+        "country": "Christmas Island",
+        "capital": "Flying Fish Cove",
+        "cc": "CX",
+        "cc3": "CXR",
+        "iac": "+61 8 9164",
+        "timezone": "UTC+07",
+        "currency": "Australian dollar"
+    },
+    {
+        "country": "Cocos (Keeling) Islands",
+        "capital": "West Island",
+        "cc": "CC",
+        "cc3": "CCK",
+        "iac": "+61 8 9162",
+        "timezone": "UTC+06:30",
+        "currency": "Australian dollar"
+    },
+    {
+        "country": "Colombia",
+        "capital": "Bogot\u00e1",
+        "cc": "CO",
+        "cc3": "COL",
+        "iac": "+57",
+        "timezone": "UTC-05:00",
+        "currency": "Colombian peso"
+    },
+    {
+        "country": "Comoros",
+        "capital": "Moroni",
+        "cc": "KM",
+        "cc3": "COM",
+        "iac": "+269",
+        "timezone": "UTC+03:00",
+        "currency": "Comorian franc"
+    },
+    {
+        "country": "Congo, Republic of the",
+        "capital": "Brazzaville",
+        "cc": "CG",
+        "cc3": "COG",
+        "iac": "+242",
+        "timezone": "UTC+01:00",
+        "currency": "Central African CFA franc"
+    },
+    {
+        "country": "Congo, Democratic Republic of the",
+        "capital": "Kinshasa",
+        "cc": "CD",
+        "cc3": "COD",
+        "iac": "+243",
+        "timezone": "UTC+01:00 - UTC+02:00",
+        "currency": "Congolese franc"
+    },
+    {
+        "country": "Cook Islands",
+        "capital": "Avarua",
+        "cc": "CK",
+        "cc3": "COK",
+        "iac": "+682",
+        "timezone": "UTC-10:00",
+        "currency": "New Zealand dollar"
+    },
+    {
+        "country": "Costa Rica",
+        "capital": "San Jos\u00e9",
+        "cc": "CR",
+        "cc3": "CRI",
+        "iac": "+506",
+        "timezone": "UTC-06:00",
+        "currency": "Costa Rican col\u00f3n"
+    },
+    {
+        "country": "C\u00f4te d'Ivoire",
+        "capital": "Yamoussoukro",
+        "cc": "CI",
+        "cc3": "CIV",
+        "iac": "+225",
+        "timezone": "UTC",
+        "currency": "West African CFA franc"
+    },
+    {
+        "country": "Croatia",
+        "capital": "Zagreb",
+        "cc": "HR",
+        "cc3": "HRV",
+        "iac": "+385",
+        "timezone": "UTC+01:00",
+        "currency": "Croatian kuna"
+    },
+    {
+        "country": "Cuba",
+        "capital": "Havana",
+        "cc": "CU",
+        "cc3": "CUB",
+        "iac": "+53",
+        "timezone": "UTC-03:00",
+        "currency": "Cuban convertible peso"
+    },
+    {
+        "country": "Curacao",
+        "capital": "Willemstad",
+        "cc": "CW",
+        "cc3": "CUW",
+        "iac": "+599 9",
+        "timezone": "UTC-04:00",
+        "currency": "Netherlands Antillean guilder"
+    },
+    {
+        "country": "Cyprus",
+        "capital": "Nicosia",
+        "cc": "CY",
+        "cc3": "CYP",
+        "iac": "+357",
+        "timezone": "UTC+02:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "Czech Republic",
+        "capital": "Prague",
+        "cc": "CZ",
+        "cc3": "CZE",
+        "iac": "+420",
+        "timezone": "UTC+01:00",
+        "currency": "Czech koruna"
+    },
+    {
+        "country": "Denmark",
+        "capital": "Copenhagen",
+        "cc": "DK",
+        "cc3": "DNK",
+        "iac": "+45",
+        "timezone": "UTC+01:00",
+        "currency": "Danish krone"
+    },
+    {
+        "country": "Djibouti",
+        "capital": "Djibouti",
+        "cc": "DJ",
+        "cc3": "DJI",
+        "iac": "+253",
+        "timezone": "UTC+03:00",
+        "currency": "Djiboutian franc"
+    },
+    {
+        "country": "Dominica",
+        "capital": "Roseau",
+        "cc": "DM",
+        "cc3": "DMA",
+        "iac": "+1 767",
+        "timezone": "UTC-04:00",
+        "currency": "East Caribbean dollar"
+    },
+    {
+        "country": "Dominican Republic",
+        "capital": "Santo Domingo",
+        "cc": "DO",
+        "cc3": "DOM",
+        "iac": "+1 809/829/849",
+        "timezone": "UTC-04:00",
+        "currency": "Dominican peso"
+    },
+    {
+        "country": "East Timor",
+        "capital": "Dili",
+        "cc": "TL",
+        "cc3": "TLS",
+        "iac": "+670",
+        "timezone": "UTC+09",
+        "currency": "United States dollar"
+    },
+    {
+        "country": "Ecuador",
+        "capital": "Quito",
+        "cc": "EC",
+        "cc3": "ECU",
+        "iac": "+593",
+        "timezone": "UTC-05:00",
+        "currency": "United States dollar"
+    },
+    {
+        "country": "Egypt",
+        "capital": "Cairo",
+        "cc": "EG",
+        "cc3": "EGY",
+        "iac": "+20",
+        "timezone": "UTC+02:00",
+        "currency": "Egyptian pound"
+    },
+    {
+        "country": "El Salvador",
+        "capital": "San Salvador",
+        "cc": "SV",
+        "cc3": "SLV",
+        "iac": "+503",
+        "timezone": "UTC-06:00",
+        "currency": "Salvadoran col\u00f3n"
+    },
+    {
+        "country": "Equatorial Guinea",
+        "capital": "Malabo",
+        "cc": "GQ",
+        "cc3": "GNQ",
+        "iac": "+240",
+        "timezone": "UTC+01:00",
+        "currency": "Central African CFA franc"
+    },
+    {
+        "country": "Eritrea",
+        "capital": "Asmara",
+        "cc": "ER",
+        "cc3": "ERI",
+        "iac": "+291",
+        "timezone": "UTC+03:00",
+        "currency": "Eritrean nakfa"
+    },
+    {
+        "country": "Estonia",
+        "capital": "Tallinn",
+        "cc": "EE",
+        "cc3": "EST",
+        "iac": "+372",
+        "timezone": "UTC+03:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "Ethiopia",
+        "capital": "Addis Ababa",
+        "cc": "ET",
+        "cc3": "ETH",
+        "iac": "+251",
+        "timezone": "UTC+03:00",
+        "currency": "Ethiopian birr"
+    },
+    {
+        "country": "Falkland Islands (Malvinas)",
+        "capital": "Stanley",
+        "cc": "FK",
+        "cc3": "FLK",
+        "iac": "+500",
+        "timezone": "UTC-04:00",
+        "currency": "Falkland Islands pound"
+    },
+    {
+        "country": "Faroe Islands",
+        "capital": "T\u00f3rshavn",
+        "cc": "FO",
+        "cc3": "FRO",
+        "iac": "+298",
+        "timezone": "UTC",
+        "currency": "Danish krone"
+    },
+    {
+        "country": "Fiji",
+        "capital": "Suva",
+        "cc": "FJ",
+        "cc3": "FJI",
+        "iac": "+679",
+        "timezone": "UTC+12:00",
+        "currency": "Fijian dollar"
+    },
+    {
+        "country": "Finland",
+        "capital": "Helsinki",
+        "cc": "FI",
+        "cc3": "FIN",
+        "iac": "+358",
+        "timezone": "UTC+02:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "France",
+        "capital": "Paris",
+        "cc": "FR",
+        "cc3": "FRA",
+        "iac": "+33",
+        "timezone": "UTC+01:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "French Guiana",
+        "capital": "Cayenne",
+        "cc": "GF",
+        "cc3": "GUF",
+        "iac": "+594",
+        "timezone": "UTC-01:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "French Polynesia",
+        "capital": "Papeete",
+        "cc": "PF",
+        "cc3": "PYF",
+        "iac": "+689",
+        "timezone": "UTC-10:00",
+        "currency": "CFP franc"
+    },
+    {
+        "country": "French Southern Territories",
+        "capital": "Port-aux-Fran\u00e7ais",
+        "cc": "TF",
+        "cc3": "ATF",
+        "iac": null,
+        "timezone": "UTC+05:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "Gabon",
+        "capital": "Libreville",
+        "cc": "GA",
+        "cc3": "GAB",
+        "iac": "+241",
+        "timezone": "UTC+01:00",
+        "currency": "Central African CFA franc"
+    },
+    {
+        "country": "Gambia",
+        "capital": "Banjul",
+        "cc": "GM",
+        "cc3": "GMB",
+        "iac": "+220",
+        "timezone": "UTC",
+        "currency": "Gambian dalasi"
+    },
+    {
+        "country": "Georgia",
+        "capital": "Tbilisi",
+        "cc": "GE",
+        "cc3": "GEO",
+        "iac": "+995",
+        "timezone": "UTC+04:00",
+        "currency": "Georgian lari"
+    },
+    {
+        "country": "Germany",
+        "capital": "Berlin",
+        "cc": "DE",
+        "cc3": "DEU",
+        "iac": "+49",
+        "timezone": "UTC+01:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "Ghana",
+        "capital": "Accra",
+        "cc": "GH",
+        "cc3": "GHA",
+        "iac": "+233",
+        "timezone": "UTC",
+        "currency": "Ghanaian cedi"
+    },
+    {
+        "country": "Gibraltar",
+        "capital": "Gibraltar",
+        "cc": "GI",
+        "cc3": "GIB",
+        "iac": "+350",
+        "timezone": "UTC+01:00",
+        "currency": "Gibraltar pound"
+    },
+    {
+        "country": "Greece",
+        "capital": "Athens",
+        "cc": "GR",
+        "cc3": "GRC",
+        "iac": "+30",
+        "timezone": "UTC+02:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "Greenland",
+        "capital": "Nuuk",
+        "cc": "GL",
+        "cc3": "GRL",
+        "iac": "+299",
+        "timezone": "UTC-03:00",
+        "currency": "Danish krone"
+    },
+    {
+        "country": "Grenada",
+        "capital": "St. George's",
+        "cc": "GD",
+        "cc3": "GRD",
+        "iac": "+1 473",
+        "timezone": "UTC-04:00",
+        "currency": "East Caribbean dollar"
+    },
+    {
+        "country": "Guadeloupe",
+        "capital": "Basse-Terre",
+        "cc": "GP",
+        "cc3": "GLP",
+        "iac": "+590",
+        "timezone": "UTC-04:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "Guam",
+        "capital": "Hag\u00e5t\u00f1a",
+        "cc": "GU",
+        "cc3": "GUM",
+        "iac": "+1 671",
+        "timezone": "UTC+10:00",
+        "currency": "United States dollar"
+    },
+    {
+        "country": "Guatemala",
+        "capital": "Guatemala City",
+        "cc": "GT",
+        "cc3": "GTM",
+        "iac": "+502",
+        "timezone": "UTC-06:00",
+        "currency": "Guatemalan quetzal"
+    },
+    {
+        "country": "Guernsey",
+        "capital": "St. Peter Port",
+        "cc": "GG",
+        "cc3": "GGY",
+        "iac": "+44 1481",
+        "timezone": "UTC",
+        "currency": "British pound"
+    },
+    {
+        "country": "Guinea",
+        "capital": "Conakry",
+        "cc": "GN",
+        "cc3": "GIN",
+        "iac": "+224",
+        "timezone": "UTC",
+        "currency": "Guinean franc"
+    },
+    {
+        "country": "Guinea-Bissau",
+        "capital": "Bissau",
+        "cc": "GW",
+        "cc3": "GNB",
+        "iac": "+245",
+        "timezone": "UTC",
+        "currency": "West African CFA franc"
+    },
+    {
+        "country": "Guyana",
+        "capital": "Georgetown",
+        "cc": "GY",
+        "cc3": "GUY",
+        "iac": "+592",
+        "timezone": "UTC-03:00",
+        "currency": "Guyanese dollar"
+    },
+    {
+        "country": "Haiti",
+        "capital": "Port-au-Prince",
+        "cc": "HT",
+        "cc3": "HTI",
+        "iac": "+509",
+        "timezone": "UTC-05:00",
+        "currency": "Haitian gourde"
+    },
+    {
+        "country": "Heard Island and McDonald Islands",
+        "capital": null,
+        "cc": "HM",
+        "cc3": "HMD",
+        "iac": null,
+        "timezone": "UTC+05",
+        "currency": null
+    },
+    {
+        "country": "Honduras",
+        "capital": "Tegucigalpa",
+        "cc": "HN",
+        "cc3": "HND",
+        "iac": "+504",
+        "timezone": "UTC-06:00",
+        "currency": "Honduran lempira"
+    },
+    {
+        "country": "Hong Kong",
+        "capital": null,
+        "cc": "HK",
+        "cc3": "HKG",
+        "iac": "+852",
+        "timezone": "UTC+08:00",
+        "currency": "Hong Kong dollar"
+    },
+    {
+        "country": "Hungary",
+        "capital": "Budapest",
+        "cc": "HU",
+        "cc3": "HUN",
+        "iac": "+36",
+        "timezone": "UTC+01:00",
+        "currency": "Hungarian forint"
+    },
+    {
+        "country": "Iceland",
+        "capital": "Reykjav\u00edk",
+        "cc": "IS",
+        "cc3": "ISL",
+        "iac": "+354",
+        "timezone": "UTC",
+        "currency": "Icelandic kr\u00f3na"
+    },
+    {
+        "country": "India",
+        "capital": "New Delhi",
+        "cc": "IN",
+        "cc3": "IND",
+        "iac": "+91",
+        "timezone": "UTC+05:30",
+        "currency": "Indian rupee"
+    },
+    {
+        "country": "Indonesia",
+        "capital": "Jakarta",
+        "cc": "ID",
+        "cc3": "IDN",
+        "iac": "+62",
+        "timezone": "UTC+07:00 - UTC+09:00",
+        "currency": "Indonesian rupiah"
+    },
+    {
+        "country": "Iran",
+        "capital": "Tehran",
+        "cc": "IR",
+        "cc3": "IRN",
+        "iac": "+98",
+        "timezone": "UTC+03:30",
+        "currency": "Iranian rial"
+    },
+    {
+        "country": "Iraq",
+        "capital": "Baghdad",
+        "cc": "IQ",
+        "cc3": "IRQ",
+        "iac": "+964",
+        "timezone": "UTC+03:00",
+        "currency": "Iraqi dinar"
+    },
+    {
+        "country": "Ireland",
+        "capital": "Dublin",
+        "cc": "IE",
+        "cc3": "IRL",
+        "iac": "+353",
+        "timezone": "UTC",
+        "currency": "Euro"
+    },
+    {
+        "country": "Isle of Man",
+        "capital": "Douglas",
+        "cc": "IM",
+        "cc3": "IMN",
+        "iac": "+44 1624",
+        "timezone": "UTC",
+        "currency": "British pound"
+    },
+    {
+        "country": "Israel",
+        "capital": "Jerusalem",
+        "cc": "IL",
+        "cc3": "ISR",
+        "iac": "+972",
+        "timezone": "UTC+02:00",
+        "currency": "Israeli new shekel"
+    },
+    {
+        "country": "Italy",
+        "capital": "Rome",
+        "cc": "IT",
+        "cc3": "ITA",
+        "iac": "+39",
+        "timezone": "UTC+01:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "Jamaica",
+        "capital": "Kingston",
+        "cc": "JM",
+        "cc3": "JAM",
+        "iac": "+1 876",
+        "timezone": "UTC-05:00",
+        "currency": "Jamaican dollar"
+    },
+    {
+        "country": "Japan",
+        "capital": "Tokyo",
+        "cc": "JP",
+        "cc3": "JPN",
+        "iac": "+81",
+        "timezone": "UTC+09:00",
+        "currency": "Japanese yen"
+    },
+    {
+        "country": "Jersey",
+        "capital": "St. Helier",
+        "cc": "JE",
+        "cc3": "JEY",
+        "iac": "+44 1534",
+        "timezone": "UTC",
+        "currency": "British pound"
+    },
+    {
+        "country": "Jordan",
+        "capital": "Amman",
+        "cc": "JO",
+        "cc3": "JOR",
+        "iac": "+962",
+        "timezone": "UTC+02:00",
+        "currency": "Jordanian dinar"
+    },
+    {
+        "country": "Kazakhstan",
+        "capital": "Astana",
+        "cc": "KZ",
+        "cc3": "KAZ",
+        "iac": "+7 6xx/7xx",
+        "timezone": "UTC+06:00",
+        "currency": "Kazakhstani tenge"
+    },
+    {
+        "country": "Kenya",
+        "capital": "Nairobi",
+        "cc": "KE",
+        "cc3": "KEN",
+        "iac": "+254",
+        "timezone": "UTC+03:00",
+        "currency": "Kenyan shilling"
+    },
+    {
+        "country": "Kiribati",
+        "capital": "Tarawa",
+        "cc": "KI",
+        "cc3": "KIR",
+        "iac": "+686",
+        "timezone": "UTC+12:00",
+        "currency": "Australian dollar"
+    },
+    {
+        "country": "Kuwait",
+        "capital": "Kuwait City",
+        "cc": "KW",
+        "cc3": "KWT",
+        "iac": "+965",
+        "timezone": "UTC+03:00",
+        "currency": "Kuwaiti dinar"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "capital": "Bishkek",
+        "cc": "KG",
+        "cc3": "KGZ",
+        "iac": "+996",
+        "timezone": "UTC+06:00",
+        "currency": "Kyrgyzstani som"
+    },
+    {
+        "country": "Laos",
+        "capital": "Vientiane",
+        "cc": "LA",
+        "cc3": "LAO",
+        "iac": "+856",
+        "timezone": "UTC+07:00",
+        "currency": "Lao kip"
+    },
+    {
+        "country": "Latvia",
+        "capital": "Riga",
+        "cc": "LV",
+        "cc3": "LVA",
+        "iac": "+371",
+        "timezone": "UTC+03:00",
+        "currency": "Latvian lats"
+    },
+    {
+        "country": "Lebanon",
+        "capital": "Beirut",
+        "cc": "LB",
+        "cc3": "LBN",
+        "iac": "+961",
+        "timezone": "UTC+02:00",
+        "currency": "Lebanese pound"
+    },
+    {
+        "country": "Lesotho",
+        "capital": "Maseru",
+        "cc": "LS",
+        "cc3": "LSO",
+        "iac": "+266",
+        "timezone": "UTC+02:00",
+        "currency": "Lesotho loti"
+    },
+    {
+        "country": "Liberia",
+        "capital": "Monrovia",
+        "cc": "LR",
+        "cc3": "LBR",
+        "iac": "+231",
+        "timezone": "UTC",
+        "currency": "Liberian dollar"
+    },
+    {
+        "country": "Libya",
+        "capital": "Tripoli",
+        "cc": "LY",
+        "cc3": "LBY",
+        "iac": "+218",
+        "timezone": "UTC+02:00",
+        "currency": "Libyan dinar"
+    },
+    {
+        "country": "Liechtenstein",
+        "capital": "Vaduz",
+        "cc": "LI",
+        "cc3": "LIE",
+        "iac": "+423",
+        "timezone": "UTC+01:00",
+        "currency": "Swiss franc"
+    },
+    {
+        "country": "Lithuania",
+        "capital": "Vilnius",
+        "cc": "LT",
+        "cc3": "LTU",
+        "iac": "+370",
+        "timezone": "UTC+02:00",
+        "currency": "Lithuanian litas"
+    },
+    {
+        "country": "Luxembourg",
+        "capital": "Luxembourg",
+        "cc": "LU",
+        "cc3": "LUX",
+        "iac": "+352",
+        "timezone": "UTC+01:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "Macau",
+        "capital": null,
+        "cc": "MO",
+        "cc3": "MAC",
+        "iac": "+853",
+        "timezone": "UTC+08:00",
+        "currency": "Macanese pataca"
+    },
+    {
+        "country": "Macedonia",
+        "capital": "Skopje",
+        "cc": "MK",
+        "cc3": "MKD",
+        "iac": "+389",
+        "timezone": "UTC+01:00",
+        "currency": "Macedonian denar"
+    },
+    {
+        "country": "Madagascar",
+        "capital": "Antananarivo",
+        "cc": "MG",
+        "cc3": "MDG",
+        "iac": "+261",
+        "timezone": "UTC+03:00",
+        "currency": "Malagasy ariary"
+    },
+    {
+        "country": "Malawi",
+        "capital": "Lilongwe",
+        "cc": "MW",
+        "cc3": "MWI",
+        "iac": "+265",
+        "timezone": "UTC+02:00",
+        "currency": "Malawian kwacha"
+    },
+    {
+        "country": "Malaysia",
+        "capital": "Kuala Lumpur",
+        "cc": "MY",
+        "cc3": "MYS",
+        "iac": "+60",
+        "timezone": "UTC+08:00",
+        "currency": "Malaysian ringgit"
+    },
+    {
+        "country": "Maldives",
+        "capital": "Mal\u00e9",
+        "cc": "MV",
+        "cc3": "MDV",
+        "iac": "+960",
+        "timezone": "UTC+05:00",
+        "currency": "Maldivian rufiyaa"
+    },
+    {
+        "country": "Mali",
+        "capital": "Bamako",
+        "cc": "ML",
+        "cc3": "MLI",
+        "iac": "+223",
+        "timezone": "UTC",
+        "currency": "West African CFA franc"
+    },
+    {
+        "country": "Malta",
+        "capital": "Valletta",
+        "cc": "MT",
+        "cc3": "MLT",
+        "iac": "+356",
+        "timezone": "UTC+01:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "Marshall Islands",
+        "capital": "Majuro",
+        "cc": "MH",
+        "cc3": "MHL",
+        "iac": "+692",
+        "timezone": "UTC+10:00",
+        "currency": "United States dollar"
+    },
+    {
+        "country": "Martinique",
+        "capital": "Fort-de-France",
+        "cc": "MQ",
+        "cc3": "MTQ",
+        "iac": "+596",
+        "timezone": "UTC-04:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "Mauritania",
+        "capital": "Nouakchott",
+        "cc": "MR",
+        "cc3": "MRT",
+        "iac": "+222",
+        "timezone": "UTC",
+        "currency": "Mauritanian ouguiya"
+    },
+    {
+        "country": "Mauritius",
+        "capital": "Port Louis",
+        "cc": "MU",
+        "cc3": "MUS",
+        "iac": "+230",
+        "timezone": "UTC+04:00",
+        "currency": "Mauritian rupee"
+    },
+    {
+        "country": "Mayotte",
+        "capital": "Mamoudzou",
+        "cc": "YT",
+        "cc3": "MYT",
+        "iac": "+262 269/639",
+        "timezone": "UTC+03:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "Mexico",
+        "capital": "Mexico City",
+        "cc": "MX",
+        "cc3": "MEX",
+        "iac": "+52",
+        "timezone": "UTC-08:00 - UTC-06:00",
+        "currency": "Mexican peso"
+    },
+    {
+        "country": "Micronesia",
+        "capital": "Palikir",
+        "cc": "FM",
+        "cc3": "FSM",
+        "iac": "+691",
+        "timezone": "UTC+10:00",
+        "currency": "Micronesian dollar"
+    },
+    {
+        "country": "Moldova",
+        "capital": "Chisinau",
+        "cc": "MD",
+        "cc3": "MDA",
+        "iac": "+373",
+        "timezone": "UTC+03:00",
+        "currency": "Moldovan leu"
+    },
+    {
+        "country": "Monaco",
+        "capital": "Monaco",
+        "cc": "MC",
+        "cc3": "MCO",
+        "iac": "+377",
+        "timezone": "UTC+01:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "Mongolia",
+        "capital": "Ulaanbaatar",
+        "cc": "MN",
+        "cc3": "MNG",
+        "iac": "+976",
+        "timezone": "UTC+08:00",
+        "currency": "Mongolian t\u00f6gr\u00f6g"
+    },
+    {
+        "country": "Montenegro",
+        "capital": "Podgorica",
+        "cc": "ME",
+        "cc3": "MNE",
+        "iac": "+382",
+        "timezone": "UTC+01",
+        "currency": "Euro"
+    },
+    {
+        "country": "Montserrat",
+        "capital": "Plymouth",
+        "cc": "MS",
+        "cc3": "MSR",
+        "iac": "+1 664",
+        "timezone": "UTC-04:00",
+        "currency": "East Caribbean dollar"
+    },
+    {
+        "country": "Morocco",
+        "capital": "Rabat",
+        "cc": "MA",
+        "cc3": "MAR",
+        "iac": "+212",
+        "timezone": "UTC",
+        "currency": "Moroccan dirham"
+    },
+    {
+        "country": "Mozambique",
+        "capital": "Maputo",
+        "cc": "MZ",
+        "cc3": "MOZ",
+        "iac": "+258",
+        "timezone": "UTC+02:00",
+        "currency": "Mozambican metical"
+    },
+    {
+        "country": "Myanmar (Burma)",
+        "capital": "Naypyidaw",
+        "cc": "MM",
+        "cc3": "MMR",
+        "iac": "+95",
+        "timezone": "UTC+06:30",
+        "currency": "Myanma kyat"
+    },
+    {
+        "country": "Namibia",
+        "capital": "Windhoek",
+        "cc": "NA",
+        "cc3": "NAM",
+        "iac": "+264",
+        "timezone": "UTC+02:00",
+        "currency": "Namibian dollar"
+    },
+    {
+        "country": "Nauru",
+        "capital": "Yaren",
+        "cc": "NR",
+        "cc3": "NRU",
+        "iac": "+674",
+        "timezone": "UTC+12:00",
+        "currency": "Australian dollar"
+    },
+    {
+        "country": "Nepal",
+        "capital": "Kathmandu",
+        "cc": "NP",
+        "cc3": "NPL",
+        "iac": "+977",
+        "timezone": "UTC+05:30",
+        "currency": "Nepalese rupee"
+    },
+    {
+        "country": "Netherlands",
+        "capital": "Amsterdam",
+        "cc": "NL",
+        "cc3": "NLD",
+        "iac": "+31",
+        "timezone": "UTC+01:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "New Caledonia",
+        "capital": "Noum\u00e9a",
+        "cc": "NC",
+        "cc3": "NCL",
+        "iac": "+687",
+        "timezone": "UTC+11:00",
+        "currency": "CFP franc"
+    },
+    {
+        "country": "New Zealand",
+        "capital": "Wellington",
+        "cc": "NZ",
+        "cc3": "NZL",
+        "iac": "+64",
+        "timezone": "UTC+12:00",
+        "currency": "New Zealand dollar"
+    },
+    {
+        "country": "Nicaragua",
+        "capital": "Managua",
+        "cc": "NI",
+        "cc3": "NIC",
+        "iac": "+505",
+        "timezone": "UTC-06:00",
+        "currency": "Nicaraguan c\u00f3rdoba"
+    },
+    {
+        "country": "Niger",
+        "capital": "Niamey",
+        "cc": "NE",
+        "cc3": "NER",
+        "iac": "+227",
+        "timezone": "UTC+01:00",
+        "currency": "West African CFA franc"
+    },
+    {
+        "country": "Nigeria",
+        "capital": "Abuja",
+        "cc": "NG",
+        "cc3": "NGA",
+        "iac": "+234",
+        "timezone": "UTC+01:00",
+        "currency": "Nigerian naira"
+    },
+    {
+        "country": "Niue",
+        "capital": "Alofi",
+        "cc": "NU",
+        "cc3": "NIU",
+        "iac": "+683",
+        "timezone": "UTC-11:00",
+        "currency": "New Zealand dollar"
+    },
+    {
+        "country": "Norfolk Island",
+        "capital": "Kingston",
+        "cc": "NF",
+        "cc3": "NFK",
+        "iac": "+672 3",
+        "timezone": "UTC+11:30",
+        "currency": "Australian dollar"
+    },
+    {
+        "country": "North Korea",
+        "capital": "Pyongyang",
+        "cc": "KP",
+        "cc3": "PRK",
+        "iac": "+850",
+        "timezone": "UTC+09:00",
+        "currency": "North Korean won"
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "capital": "Saipan",
+        "cc": "MP",
+        "cc3": "MNP",
+        "iac": "+1 670",
+        "timezone": "UTC+10:00",
+        "currency": "United States dollar"
+    },
+    {
+        "country": "Norway",
+        "capital": "Oslo",
+        "cc": "NO",
+        "cc3": "NOR",
+        "iac": "+47",
+        "timezone": "UTC+01:00",
+        "currency": "Norwegian krone"
+    },
+    {
+        "country": "Oman",
+        "capital": "Muscat",
+        "cc": "OM",
+        "cc3": "OMN",
+        "iac": "+968",
+        "timezone": "UTC+04:00",
+        "currency": "Omani rial"
+    },
+    {
+        "country": "Pakistan",
+        "capital": "Islamabad",
+        "cc": "PK",
+        "cc3": "PAK",
+        "iac": "+92",
+        "timezone": "UTC+05:00",
+        "currency": "Pakistani rupee"
+    },
+    {
+        "country": "Palau",
+        "capital": "Ngerulmud",
+        "cc": "PW",
+        "cc3": "PLW",
+        "iac": "+680",
+        "timezone": "UTC+09:00",
+        "currency": "Palauan dollar"
+    },
+    {
+        "country": "Panama",
+        "capital": "Panama City",
+        "cc": "PA",
+        "cc3": "PAN",
+        "iac": "+507",
+        "timezone": "UTC-05:00",
+        "currency": "Panamanian balboa"
+    },
+    {
+        "country": "Papua New Guinea",
+        "capital": "Port Moresby",
+        "cc": "PG",
+        "cc3": "PNG",
+        "iac": "+675",
+        "timezone": "UTC+10:00",
+        "currency": "Papua New Guinean kina"
+    },
+    {
+        "country": "Paraguay",
+        "capital": "Asunci\u00f3n",
+        "cc": "PY",
+        "cc3": "PRY",
+        "iac": "+595",
+        "timezone": "UTC-04:00",
+        "currency": "Paraguayan guaran\u00ed"
+    },
+    {
+        "country": "Peru",
+        "capital": "Lima",
+        "cc": "PE",
+        "cc3": "PER",
+        "iac": "+51",
+        "timezone": "UTC-05:00",
+        "currency": "Peruvian nuevo sol"
+    },
+    {
+        "country": "Philippines",
+        "capital": "Manila",
+        "cc": "PH",
+        "cc3": "PHL",
+        "iac": "+63",
+        "timezone": "UTC+08:00",
+        "currency": "Philippine peso"
+    },
+    {
+        "country": "Pitcairn",
+        "capital": "Adamstown",
+        "cc": "PN",
+        "cc3": "PCN",
+        "iac": "+872",
+        "timezone": "UTC-08",
+        "currency": "New Zealand dollar"
+    },
+    {
+        "country": "Poland",
+        "capital": "Warsaw",
+        "cc": "PL",
+        "cc3": "POL",
+        "iac": "+48",
+        "timezone": "UTC+01:00",
+        "currency": "Polish z\u0142oty"
+    },
+    {
+        "country": "Portugal",
+        "capital": "Lisbon",
+        "cc": "PT",
+        "cc3": "PRT",
+        "iac": "+351",
+        "timezone": "UTC+01:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "Puerto Rico",
+        "capital": "San Juan",
+        "cc": "PR",
+        "cc3": "PRI",
+        "iac": "+1 787/939",
+        "timezone": "UTC-04:00",
+        "currency": "United States dollar"
+    },
+    {
+        "country": "Qatar",
+        "capital": "Doha",
+        "cc": "QA",
+        "cc3": "QAT",
+        "iac": "+974",
+        "timezone": "UTC+03:00",
+        "currency": "Qatari riyal"
+    },
+    {
+        "country": "Reunion",
+        "capital": null,
+        "cc": "RE",
+        "cc3": "REU",
+        "iac": "+262",
+        "timezone": "UTC+04:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "Romania",
+        "capital": "Bucharest",
+        "cc": "RO",
+        "cc3": "ROU",
+        "iac": "+40",
+        "timezone": "UTC+02:00",
+        "currency": "Romanian leu"
+    },
+    {
+        "country": "Russia",
+        "capital": "Moscow",
+        "cc": "RU",
+        "cc3": "RUS",
+        "iac": "+7",
+        "timezone": "UTC+03:00",
+        "currency": "Russian ruble"
+    },
+    {
+        "country": "Rwanda",
+        "capital": "Kigali",
+        "cc": "RW",
+        "cc3": "RWA",
+        "iac": "+250",
+        "timezone": "UTC+02:00",
+        "currency": "Rwandan franc"
+    },
+    {
+        "country": "Saint Barthelemy",
+        "capital": "Gustavia",
+        "cc": "BL",
+        "cc3": "BLM",
+        "iac": "+590",
+        "timezone": "UTC-04",
+        "currency": "Euro"
+    },
+    {
+        "country": "Saint Helena",
+        "capital": "Jamestown",
+        "cc": "SH",
+        "cc3": "SHN",
+        "iac": "+290",
+        "timezone": "UTC",
+        "currency": "Saint Helena pound"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "capital": "Basseterre",
+        "cc": "KN",
+        "cc3": "KNA",
+        "iac": "+1 869",
+        "timezone": "UTC-04:00",
+        "currency": "East Caribbean dollar"
+    },
+    {
+        "country": "Saint Lucia",
+        "capital": "Castries",
+        "cc": "LC",
+        "cc3": "LCA",
+        "iac": "+1 758",
+        "timezone": "UTC-04:00",
+        "currency": "East Caribbean dollar"
+    },
+    {
+        "country": "Saint Martin",
+        "capital": "Marigot",
+        "cc": "MF",
+        "cc3": "MAF",
+        "iac": "+590",
+        "timezone": "UTC-04",
+        "currency": "Euro"
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "capital": "St. Pierre",
+        "cc": "PM",
+        "cc3": "SPM",
+        "iac": "+508",
+        "timezone": "UTC-03",
+        "currency": "Euro"
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "capital": "Kingstown",
+        "cc": "VC",
+        "cc3": "VCT",
+        "iac": "+1 784",
+        "timezone": "UTC-04",
+        "currency": "East Caribbean dollar"
+    },
+    {
+        "country": "Samoa",
+        "capital": "Apia",
+        "cc": "WS",
+        "cc3": "WSM",
+        "iac": "+685",
+        "timezone": "UTC-11:00",
+        "currency": "Samoan tala"
+    },
+    {
+        "country": "San Marino",
+        "capital": "San Marino",
+        "cc": "SM",
+        "cc3": "SMR",
+        "iac": "+378",
+        "timezone": "UTC+01:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "Sao Tome and Pr\u00edncipe",
+        "capital": "S\u00e3o Tom\u00e9",
+        "cc": "ST",
+        "cc3": "STP",
+        "iac": "+239",
+        "timezone": "UTC",
+        "currency": "S\u00e3o Tom\u00e9 and Pr\u00edncipe dobra"
+    },
+    {
+        "country": "Saudi Arabia",
+        "capital": "Riyadh",
+        "cc": "SA",
+        "cc3": "SAU",
+        "iac": "+966",
+        "timezone": "UTC+03:00",
+        "currency": "Saudi riyal"
+    },
+    {
+        "country": "Senegal",
+        "capital": "Dakar",
+        "cc": "SN",
+        "cc3": "SEN",
+        "iac": "+221",
+        "timezone": "UTC",
+        "currency": "West African CFA franc"
+    },
+    {
+        "country": "Serbia",
+        "capital": "Belgrade",
+        "cc": "RS",
+        "cc3": "SRB",
+        "iac": "+381",
+        "timezone": "UTC+01:00",
+        "currency": "Serbian dinar"
+    },
+    {
+        "country": "Seychelles",
+        "capital": "Victoria",
+        "cc": "SC",
+        "cc3": "SYC",
+        "iac": "+248",
+        "timezone": "UTC+04:00",
+        "currency": "Seychellois rupee"
+    },
+    {
+        "country": "Sierra Leone",
+        "capital": "Freetown",
+        "cc": "SL",
+        "cc3": "SLE",
+        "iac": "+232",
+        "timezone": "UTC",
+        "currency": "Sierra Leonean leone"
+    },
+    {
+        "country": "Singapore",
+        "capital": "Singapore",
+        "cc": "SG",
+        "cc3": "SGP",
+        "iac": "+65",
+        "timezone": "UTC+08:00",
+        "currency": "Brunei dollar"
+    },
+    {
+        "country": "Sint Maarten",
+        "capital": "Philipsburg",
+        "cc": "SX",
+        "cc3": "SXM",
+        "iac": "+599 5",
+        "timezone": "UTC-04:00",
+        "currency": "Netherlands Antillean guilder"
+    },
+    {
+        "country": "Slovakia",
+        "capital": "Bratislava",
+        "cc": "SK",
+        "cc3": "SVK",
+        "iac": "+421",
+        "timezone": "UTC+01:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "Slovenia",
+        "capital": "Ljubljana",
+        "cc": "SI",
+        "cc3": "SVN",
+        "iac": "+386",
+        "timezone": "UTC+01:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "Solomon Islands",
+        "capital": "Honiara",
+        "cc": "SB",
+        "cc3": "SLB",
+        "iac": "+677",
+        "timezone": "UTC+11:00",
+        "currency": "Solomon Islands dollar"
+    },
+    {
+        "country": "Somalia",
+        "capital": "Mogadishu",
+        "cc": "SO",
+        "cc3": "SOM",
+        "iac": "+252",
+        "timezone": "UTC+03:00",
+        "currency": "Somali shilling"
+    },
+    {
+        "country": "South Africa",
+        "capital": "Pretoria",
+        "cc": "ZA",
+        "cc3": "ZAF",
+        "iac": "+27",
+        "timezone": "UTC+02:00",
+        "currency": "South African rand"
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands",
+        "capital": "Grytviken",
+        "cc": "GS",
+        "cc3": "SGS",
+        "iac": null,
+        "timezone": "UTC-02",
+        "currency": "British pound"
+    },
+    {
+        "country": "South Korea",
+        "capital": "Seoul",
+        "cc": "KR",
+        "cc3": "KOR",
+        "iac": "+82",
+        "timezone": "UTC+09:00",
+        "currency": "South Korean won"
+    },
+    {
+        "country": "Spain",
+        "capital": "Madrid",
+        "cc": "ES",
+        "cc3": "ESP",
+        "iac": "+34",
+        "timezone": "UTC+01:00",
+        "currency": "Euro"
+    },
+    {
+        "country": "Sri Lanka",
+        "capital": "Sri Jayawardenapura Kotte",
+        "cc": "LK",
+        "cc3": "LKA",
+        "iac": "+94",
+        "timezone": "UTC+05:30",
+        "currency": "Sri Lankan rupee"
+    },
+    {
+        "country": "Sudan",
+        "capital": "Khartoum",
+        "cc": "SD",
+        "cc3": "SDN",
+        "iac": "+249",
+        "timezone": "UTC+02:00",
+        "currency": "Sudanese pound"
+    },
+    {
+        "country": "Suriname",
+        "capital": "Paramaribo",
+        "cc": "SR",
+        "cc3": "SUR",
+        "iac": "+597",
+        "timezone": "UTC-03:30",
+        "currency": "Surinamese dollar"
+    },
+    {
+        "country": "Svalbard and Jan Mayen",
+        "capital": null,
+        "cc": "SJ",
+        "cc3": "SJM",
+        "iac": "+47",
+        "timezone": "UTC+01:00",
+        "currency": "Norwegian krone"
+    },
+    {
+        "country": "Swaziland",
+        "capital": "Mbabane",
+        "cc": "SZ",
+        "cc3": "SWZ",
+        "iac": "+268",
+        "timezone": "UTC+02:00",
+        "currency": "Swazi lilangeni"
+    },
+    {
+        "country": "Sweden",
+        "capital": "Stockholm",
+        "cc": "SE",
+        "cc3": "SWE",
+        "iac": "+46",
+        "timezone": "UTC+01:00",
+        "currency": "Swedish krona"
+    },
+    {
+        "country": "Switzerland",
+        "capital": "Bern",
+        "cc": "CH",
+        "cc3": "CHE",
+        "iac": "+41",
+        "timezone": "UTC+01:00",
+        "currency": "Swiss franc"
+    },
+    {
+        "country": "Syrian Arab Republic",
+        "capital": "Damascus",
+        "cc": "SY",
+        "cc3": "SYR",
+        "iac": "+963",
+        "timezone": "UTC+02:00",
+        "currency": "Syrian pound"
+    },
+    {
+        "country": "Taiwan",
+        "capital": "Taipei",
+        "cc": "TW",
+        "cc3": "TWN",
+        "iac": "+886",
+        "timezone": "UTC+08:00",
+        "currency": "New Taiwan dollar"
+    },
+    {
+        "country": "Tajikistan",
+        "capital": "Dushanbe",
+        "cc": "TJ",
+        "cc3": "TJK",
+        "iac": "+992",
+        "timezone": "UTC+06:00",
+        "currency": "Tajikistani somoni"
+    },
+    {
+        "country": "Tanzania",
+        "capital": "Dodoma",
+        "cc": "TZ",
+        "cc3": "TZA",
+        "iac": "+255",
+        "timezone": "UTC+03:00",
+        "currency": "Tanzanian shilling"
+    },
+    {
+        "country": "Thailand",
+        "capital": "Bangkok",
+        "cc": "TH",
+        "cc3": "THA",
+        "iac": "+66",
+        "timezone": "UTC+07:00",
+        "currency": "Thai baht"
+    },
+    {
+        "country": "Togo",
+        "capital": "Lom\u00e9",
+        "cc": "TG",
+        "cc3": "TGO",
+        "iac": "+228",
+        "timezone": "UTC",
+        "currency": "West African CFA franc"
+    },
+    {
+        "country": "Tokelau",
+        "capital": "Rotates annually",
+        "cc": "TK",
+        "cc3": "TKL",
+        "iac": "+690",
+        "timezone": "UTC-10",
+        "currency": "New Zealand dollar"
+    },
+    {
+        "country": "Tonga",
+        "capital": "Nuku",
+        "cc": "TO",
+        "cc3": "TON",
+        "iac": "+676",
+        "timezone": "UTC+13:00",
+        "currency": "Tongan pa\u02bbanga"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "capital": "Port of Spain",
+        "cc": "TT",
+        "cc3": "TTO",
+        "iac": "+1 868",
+        "timezone": "UTC-04:00",
+        "currency": "Trinidad and Tobago dollar"
+    },
+    {
+        "country": "Tunisia",
+        "capital": "Tunis",
+        "cc": "TN",
+        "cc3": "TUN",
+        "iac": "+216",
+        "timezone": "UTC+01:00",
+        "currency": "Tunisian dinar"
+    },
+    {
+        "country": "Turkey",
+        "capital": "Ankara",
+        "cc": "TR",
+        "cc3": "TUR",
+        "iac": "+90",
+        "timezone": "UTC+02:00",
+        "currency": "Turkish lira"
+    },
+    {
+        "country": "Turkmenistan",
+        "capital": "Ashgabat",
+        "cc": "TM",
+        "cc3": "TKM",
+        "iac": "+993",
+        "timezone": "UTC+05:00",
+        "currency": "Turkmenistani manat"
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "capital": "Cockburn Town",
+        "cc": "TC",
+        "cc3": "TCA",
+        "iac": "+1 649",
+        "timezone": "UTC-05:00",
+        "currency": "United States dollar"
+    },
+    {
+        "country": "Tuvalu",
+        "capital": "Funafuti",
+        "cc": "TV",
+        "cc3": "TUV",
+        "iac": "+688",
+        "timezone": "UTC+12:00",
+        "currency": "Australian dollar"
+    },
+    {
+        "country": "Uganda",
+        "capital": "Kampala",
+        "cc": "UG",
+        "cc3": "UGA",
+        "iac": "+256",
+        "timezone": "UTC+03:00",
+        "currency": "Ugandan shilling"
+    },
+    {
+        "country": "Ukraine",
+        "capital": "Kiev",
+        "cc": "UA",
+        "cc3": "UKR",
+        "iac": "+380",
+        "timezone": "UTC+03:00",
+        "currency": "Ukrainian hryvnia"
+    },
+    {
+        "country": "United Arab Emirates",
+        "capital": "Abu Dhabi",
+        "cc": "AE",
+        "cc3": "ARE",
+        "iac": "+971",
+        "timezone": "UTC+04:00",
+        "currency": "United Arab Emirates dirham"
+    },
+    {
+        "country": "United Kingdom",
+        "capital": "London",
+        "cc": "GB",
+        "cc3": "GBR",
+        "iac": "+44",
+        "timezone": "UTC",
+        "currency": "British pound"
+    },
+    {
+        "country": "United States",
+        "capital": "Washington D.C.",
+        "cc": "US",
+        "cc3": "USA",
+        "iac": "+1",
+        "timezone": "UTC-11:00 - UTC-05:00",
+        "currency": "United States dollar"
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "capital": null,
+        "cc": "UM",
+        "cc3": "UMI",
+        "iac": "+1",
+        "timezone": null,
+        "currency": "United States dollar"
+    },
+    {
+        "country": "Uruguay",
+        "capital": "Montevideo",
+        "cc": "UY",
+        "cc3": "URY",
+        "iac": "+598",
+        "timezone": "UTC-03:00",
+        "currency": "Uruguayan peso"
+    },
+    {
+        "country": "Uzbekistan",
+        "capital": "Tashkent",
+        "cc": "UZ",
+        "cc3": "UZB",
+        "iac": "+998",
+        "timezone": "UTC+06:00",
+        "currency": "Uzbekistani som"
+    },
+    {
+        "country": "Vanuatu",
+        "capital": "Port Vila",
+        "cc": "VU",
+        "cc3": "VUT",
+        "iac": "+678",
+        "timezone": "UTC+11:00",
+        "currency": "Vanuatu vatu"
+    },
+    {
+        "country": "Vatican City",
+        "capital": "Vatican City",
+        "cc": "VA",
+        "cc3": "VAT",
+        "iac": "+39 06 698",
+        "timezone": "UTC+01",
+        "currency": "Euro"
+    },
+    {
+        "country": "Venezuela",
+        "capital": "Caracas",
+        "cc": "VE",
+        "cc3": "VEN",
+        "iac": "+58",
+        "timezone": "UTC-04:00",
+        "currency": "Venezuelan bol\u00edvar"
+    },
+    {
+        "country": "Vietnam",
+        "capital": "Hanoi",
+        "cc": "VN",
+        "cc3": "VNM",
+        "iac": "+84",
+        "timezone": "UTC+07:00",
+        "currency": "Vietnamese \u0111\u1ed3ng"
+    },
+    {
+        "country": "Virgin Islands",
+        "capital": "Road Town",
+        "cc": "VG",
+        "cc3": "VGB",
+        "iac": "+1 284",
+        "timezone": "UTC-04",
+        "currency": "British Virgin Islands dollar"
+    },
+    {
+        "country": "Virgin Islands of the United States",
+        "capital": "Charlotte Amalie",
+        "cc": "VI",
+        "cc3": "VIR",
+        "iac": "+1 340",
+        "timezone": "UTC-04",
+        "currency": "United States dollar"
+    },
+    {
+        "country": "Wallis and Futuna",
+        "capital": "Mata-Utu",
+        "cc": "WF",
+        "cc3": "WLF",
+        "iac": "+681",
+        "timezone": "UTC+12:00",
+        "currency": "CFP franc"
+    },
+    {
+        "country": "Western Sahara",
+        "capital": "La\u00e2youne (El Aai\u00fan)",
+        "cc": "EH",
+        "cc3": "ESH",
+        "iac": "+212 5288/5289",
+        "timezone": "UTC+01",
+        "currency": "Moroccan dirham"
+    },
+    {
+        "country": "Yemen",
+        "capital": "Sana\u00e1",
+        "cc": "YE",
+        "cc3": "YEM",
+        "iac": "+967",
+        "timezone": "UTC+03:00",
+        "currency": "Yemeni rial"
+    },
+    {
+        "country": "Zambia",
+        "capital": "Lusaka",
+        "cc": "ZM",
+        "cc3": "ZMB",
+        "iac": "+260",
+        "timezone": "UTC+02:00",
+        "currency": "Zambian kwacha"
+    },
+    {
+        "country": "Zimbabwe",
+        "capital": "Harare",
+        "cc": "ZW",
+        "cc3": "ZWE",
+        "iac": "+263",
+        "timezone": "UTC+02:00",
+        "currency": "Botswana pula"
+    }
+]

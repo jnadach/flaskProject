@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Country</title>
+</head>
+<body>
+<h1>Nazwa kraju: {{ country.country }}</h1>
+<p>Stolica: {{ country.capital }}</p>
+<p>Kod kierunkowy: {{ country.iac }}</p>
+<p>Strefa czasowa: {{ country.timezone }}</p>
+<p>Waluta: {{ country.currency }}</p>
+<p>Kontynent: {{ country.continent }}</p>
+
+{% if country.continent == 'Europe' %}
+    <h3>Europe</h3>
+    <img src="/static/europe.jpg"/>
+{% elif country.continent == 'Asia' %}
+    <h3>Asia</h3>
+    <img src="/static/asia.jpg"/>
+{% elif country.continent == 'Asia' %}
+    <h3>Africa</h3>
+    <img src="/static/africa.jpg"/>
+{% elif country.continent == 'Antarctica' %}
+    <h3>Antarctica</h3>
+    <img src="/static/antarctica.jpg"/>
+{% elif country.continent == 'North America' %}
+    <h3>North America</h3>
+    <img src="/static/south_america.jpg"/>
+{% elif country.continent == 'South America' %}
+    <h3>South America</h3>
+    <img src="/static/south_america.jpg"/>
+{% elif country.continent == 'Oceania' %}
+    <h3>Oceania</h3>
+    <img src="/static/oceania.jpg"/>
+{% else %}
+    <h3>Nieznany kontynent</h3>
+{% endif %}
+
+<hr/>
+<br/><br/>
+<h1>Statystyki wyszukiwania</h1>
+{% for key, value in continent_map.items() %}
+    <div><b>{{ key }}</b>: {{ value }}</div>
+
+{% endfor %}
+
+<hr/>
+<br/><br/>
+
+<button>
+{#  Nazleży używać url_for dla bezpieczeństwa w przypadku kiedy bezeimy chcieli zmienic ścieżkę end pointa  #}
+    <a href="{{ url_for('country_by_index', index=index + 1)}}">
+        Następne państwo
+    </a>
+</button>
+</body>
+</html>
